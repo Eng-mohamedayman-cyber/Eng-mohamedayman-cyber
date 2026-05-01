@@ -45,6 +45,29 @@
 
 ---
 
+<h2>🎓 Cybersecurity Training</h2>
+
+<h3>📘 CEH (Certified Ethical Hacker) - In Progress</h3>
+<ul>
+  <li>Footprinting & Reconnaissance</li>
+  <li>Scanning Networks (Nmap)</li>
+  <li>Enumeration Techniques</li>
+  <li>System Hacking Basics</li>
+  <li>Web Application Attacks</li>
+  <li>Malware & Sniffing Concepts</li>
+</ul>
+
+<h3>💀 OSCP Concepts - In Progress</h3>
+<ul>
+  <li>Linux Privilege Escalation</li>
+  <li>Windows Privilege Escalation</li>
+  <li>Manual Exploitation (No Metasploit mindset)</li>
+  <li>Bash & Python for Exploitation</li>
+  <li>Buffer Overflow Basics</li>
+</ul>
+
+---
+
 <h2>🛠️ Skills</h2>
 
 <h3>💻 Programming Languages</h3>
