@@ -115,7 +115,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-mohamedayman-cyber&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-mohamedayman-cyber&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
