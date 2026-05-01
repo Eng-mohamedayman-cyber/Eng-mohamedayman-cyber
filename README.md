@@ -25,12 +25,22 @@
 
 ---
 
-<h2>🧠 Currently Learning</h2>
+<h2>🔐 Cybersecurity Skills</h2>
 
 <ul>
-  <li>🔸 XSS (Cross-Site Scripting)</li>
-  <li>🔸 SQL Injection</li>
-  <li>🔸 DoS Attacks</li>
+  <li>✅ XSS (Cross-Site Scripting)</li>
+  <li>✅ SQL Injection</li>
+  <li>✅ DoS Attacks</li>
+  <li>🔄 Currently Learning OWASP Top 10</li>
+</ul>
+
+---
+
+<h2>🧠 OWASP Top 10 Journey</h2>
+
+<ul>
+  <li>✔️ Learned: XSS, SQL Injection, DoS</li>
+  <li>📚 In Progress: Broken Authentication, IDOR, CSRF, etc.</li>
 </ul>
 
 ---
