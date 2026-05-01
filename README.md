@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Learner | Penetration Testing Enthusiast | Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;Pentesting+Journey;OSCP+Mindset+In+Progress;Always+Learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;Pentesting+Journey;OSCP+Mindset+in+Progress;Always+Learning...&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 <ul>
   <li>🎓 Computer Engineering Student</li>
   <li>🔐 Cybersecurity & Ethical Hacking Enthusiast</li>
-  <li>🐧 Linux & System Exploitation Practice</li>
-  <li>🧠 Building OSCP Manual Exploitation Mindset</li>
-  <li>📚 Studying CEH + Offensive Security Path</li>
+  <li>🐧 Strong focus on Linux & system exploitation</li>
+  <li>🧠 Building OSCP manual exploitation mindset</li>
+  <li>📚 Studying CEH + Offensive Security path</li>
 </ul>
 
 ---
@@ -30,20 +30,20 @@
 <h3>📘 CEH Concepts</h3>
 <ul>
   <li>Footprinting & Reconnaissance</li>
-  <li>Scanning Networks (Nmap)</li>
+  <li>Network Scanning (Nmap)</li>
   <li>Enumeration Techniques</li>
   <li>Web Application Attacks</li>
   <li>System Hacking Fundamentals</li>
   <li>Malware & Sniffing Basics</li>
 </ul>
 
-<h3>💀 OSCP Mindset</h3>
+<h3>💀 OSCP Mindset (Practical Skills)</h3>
 <ul>
-  <li>Manual Exploitation Approach</li>
+  <li>Manual Exploitation Approach (No blind tools)</li>
+  <li>Service Enumeration & Attack Surface Analysis</li>
   <li>Linux Privilege Escalation</li>
   <li>Windows Privilege Escalation</li>
-  <li>Service Enumeration & Attack Surface Analysis</li>
-  <li>Reverse Shell Techniques</li>
+  <li>Reverse Shell Handling</li>
   <li>Buffer Overflow Basics</li>
 </ul>
 
@@ -76,22 +76,22 @@
 <ul>
   <li>OpenVAS (Greenbone Vulnerability Scanner)</li>
   <li>Nessus Essentials</li>
-  <li>Manual Vulnerability Verification</li>
+  <li>Manual Vulnerability Validation</li>
 </ul>
 
 ---
 
-<h2>💻 Programming & Languages</h2>
+<h2>💻 Programming & Technologies</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sql" />
 </p>
 
 <ul>
-  <li>C / C++ → Algorithms & middle-Level Thinking</li>
-  <li>Python → Automation & Exploitation Scripts & Computer Vision</li>
-  <li>SQL → Database & Injection Practice</li>
-  <li>Java → Data Structure</li>
+  <li>C / C++ → Algorithms & Mid-level system thinking</li>
+  <li>Python → Automation, exploitation scripts, computer vision</li>
+  <li>SQL → Database fundamentals & injection practice</li>
+  <li>Java → Data Structures</li>
 </ul>
 
 ---
@@ -103,12 +103,12 @@
 </p>
 
 <ul>
-  <li>Nmap (Network Scanning & Enumeration)</li>
-  <li>Burp Suite (Web Testing)</li>
-  <li>Wireshark (Traffic Analysis)</li>
-  <li>OpenVAS (Vulnerability Scanning)</li>
-  <li>Nessus (Security Assessment)</li>
-  <li>Metasploit Framework (Exploitation Framework)</li>
+  <li>Nmap (Network scanning & enumeration)</li>
+  <li>Burp Suite (Web application testing)</li>
+  <li>Wireshark (Traffic analysis)</li>
+  <li>OpenVAS (Vulnerability scanning)</li>
+  <li>Nessus (Security assessment)</li>
+  <li>Metasploit Framework (Exploitation framework)</li>
 </ul>
 
 ---
@@ -121,7 +121,7 @@
 
 ---
 
-<h2>📫 Contact Me</h2>
+<h2>📫 Contact</h2>
 
 <p align="center">
   <a href="mailto:mohamedaymn9401@gmail.com">
