@@ -108,6 +108,7 @@
   <li>Wireshark (Traffic Analysis)</li>
   <li>OpenVAS (Vulnerability Scanning)</li>
   <li>Nessus (Security Assessment)</li>
+  <li>Metasploit Framework (Exploitation Framework)</li>
 </ul>
 
 ---
