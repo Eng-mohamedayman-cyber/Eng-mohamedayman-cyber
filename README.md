@@ -88,8 +88,8 @@
 </p>
 
 <ul>
-  <li>C / C++ → Algorithms & Low-Level Thinking</li>
-  <li>Python → Automation & Exploitation Scripts</li>
+  <li>C / C++ → Algorithms & middle-Level Thinking</li>
+  <li>Python → Automation & Exploitation Scripts & Computer Vision</li>
   <li>SQL → Database & Injection Practice</li>
   <li>Java → Data Structure</li>
 </ul>
@@ -113,10 +113,6 @@
 ---
 
 <h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-mohamedayman-cyber&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-mohamedayman-cyber&theme=radical" />
