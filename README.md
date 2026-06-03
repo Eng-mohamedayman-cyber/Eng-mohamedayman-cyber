@@ -111,13 +111,6 @@
   <li>Metasploit Framework (Exploitation framework)</li>
 </ul>
 
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-mohamedayman-cyber&theme=radical" />
-</p>
 
 ---
 
